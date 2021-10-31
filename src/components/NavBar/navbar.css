@@ -1,0 +1,26 @@
+div {
+    margin-top: -25px
+}
+div > p {
+    font-size: 20px;
+    position: relative;
+    top: 17px;
+    /* right : 2px; */
+    margin-left: 15px;
+    background: #37479f;
+    width : 100px;
+    height : 34px;
+    padding-left: 9px;
+}
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    margin-right: 25px;
+    position: relative;
+    bottom: 20px;
+}
+li {
+    padding-left: 8%;
+    margin-bottom: 2px;
+}
